@@ -102,6 +102,7 @@ LSM:Register(MediaType_FONT, "Impact", [[Interface\Addons\SharedMedia\Media\Font
 LSM:Register(MediaType_FONT, "King Arthur Legend", [[Interface\AddOns\SharedMedia\Media\Fonts\KingArthurLegend.ttf]])
 LSM:Register(MediaType_FONT, "Liberation Sans", [[Interface\Addons\SharedMedia\Media\Fonts\LiberationSans.ttf]], ruRU + western)
 LSM:Register(MediaType_FONT, "Liberation Serif", [[Interface\Addons\SharedMedia\Media\Fonts\LiberationSerif.ttf]], ruRU + western)
+LSM:Register(MediaType_FONT, "Naowh", [[Interface\AddOns\SharedMedia\Media\Fonts\Naowh.ttf]])
 LSM:Register(MediaType_FONT, "Marathon", [[Interface\AddOns\SharedMedia\Media\Fonts\Marathon.ttf]])
 LSM:Register(MediaType_FONT, "Marke Eigenbau", [[Interface\Addons\SharedMedia\Media\Fonts\MarkeEigenbau.ttf]])
 LSM:Register(MediaType_FONT, "Memoria Extended", [[Interface\Addons\SharedMedia\Media\Fonts\MemoriaExtended.ttf]])
